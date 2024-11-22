@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinithi Epitakaduwa</h1>
 <h3 align="center">A undergraduate @ UOP</h3>
-<img align= "right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-clipart&psig=AOvVaw3WoLszQ5HKAbDFNYWnghPu&ust=1732381688052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjZ7-u28IkDFQAAAAAdAAAAABAE">
+<img align= "right" alt="Coding" width="400" src="(https://png.pngtree.com/png-vector/20230801/ourlarge/pngtree-cartoon-girl-sitting-on-a-laptop-with-her-headphones-vector-png-image_6831878.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcoder2021&label=Profile%20views&color=0e75b6&style=flat" alt="dcoder2021" /> </p>
 
