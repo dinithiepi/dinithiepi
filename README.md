@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinithi Epitakaduwa</h1>
 <h3 align="center">A undergraduate @ UOP</h3>
-<img align= "right" alt="Coding" width="400" src="(https://png.pngtree.com/png-vector/20230801/ourlarge/pngtree-cartoon-girl-sitting-on-a-laptop-with-her-headphones-vector-png-image_6831878.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcoder2021&label=Profile%20views&color=0e75b6&style=flat" alt="dcoder2021" /> </p>
 
